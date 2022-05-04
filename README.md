@@ -1,6 +1,6 @@
 # sorts
 **Sorting Algorithms:**
-* Radix Sort
+* [Radix Sort]: 
 * Count Sort
 * Selection Sort
 * Insertion Sort
