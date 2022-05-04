@@ -1,6 +1,6 @@
 # sorts
 **Sorting Algorithms:**
-* [Radix Sort]: 
+* [Radix Sort]: https://github.com/kerrieMagee/sorts/blob/main/radix_sort.py
 * Count Sort
 * Selection Sort
 * Insertion Sort
